@@ -82,16 +82,11 @@ Bot responds with a smart analysis of ingredients.
 🔒 Environment Setup
 Create a .env file with your tokens:
 
-env
-Copy
-Edit
 BOT_TOKEN=your_telegram_bot_token
 OPENAI_API_KEY=your_openai_api_key
+
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 💬 Voice Input (Coming Soon)
 Soon, you’ll be able to say:
